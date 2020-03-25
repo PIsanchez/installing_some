@@ -1,0 +1,3 @@
+git clone https://github.com/mthh/gpd_lite_toolbox.git
+cd gpd_lite_toolbox/
+python setup.py install
